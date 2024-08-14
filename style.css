@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: inter;
+	margin: 80px 0 80px 0;
+}
+
+.section-1 {
+	background-color: #f50057;
+	border-radius: 17px 17px 0 0;
+	width: 567px;
+	height: 233px;
+	padding: 41px 138px 55px 52px;
+}
+
+.numero-tarjeta {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	padding: 65px 0 0 0;
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 34px;
+	font-weight: 400;
+}
+
+.section-2 {
+	background-color: #082d59;
+	width: 567px;
+	height: 127px;
+	border-radius: 0 0 17px 17px;
+	padding: 33px 57px 35px 52px;
+	font-size: 22px;
+}
+
+.datos {
+	color: #ffffff;
+	display: flex;
+	justify-content: space-between;
+}
+
+h2 {
+	font-weight: 400;
+	font-size: 22px;
+}
